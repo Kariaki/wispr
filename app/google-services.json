@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701606428286",
+    "firebase_url": "https://wispr-b3d9b-default-rtdb.firebaseio.com",
+    "project_id": "wispr-b3d9b",
+    "storage_bucket": "wispr-b3d9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701606428286:android:3b824f3880c963d47ce22f",
+        "android_client_info": {
+          "package_name": "com.wispr.wispr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701606428286-itvcefha48ucsmk4ggodquasnbi199ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLT-2TRwKMdmBNYABlrUnOiO31W46EIJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701606428286-itvcefha48ucsmk4ggodquasnbi199ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

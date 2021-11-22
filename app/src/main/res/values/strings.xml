@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wispr</string>
+
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="sample_text">i will be going to the market to buy some cooking items for the weekend party;alskjdf;jasd;f</string>
+    <string name="new_user">New user? Sign up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="dummyCaption">this is a dummy caption for the wispr app post</string>
+    <string name="password_confirm">confirm password</string>
+</resources>
