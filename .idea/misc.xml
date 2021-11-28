@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/dislike_state.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/drawable/favorite_white.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/drawable/like_state.xml" value="0.37604166666666666" />
         <entry key="app/src/main/res/drawable/splash_screen_background.xml" value="0.37604166666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17502532928064843" />
         <entry key="app/src/main/res/layout/create_initial_profile.xml" value="0.1752786220871327" />
+        <entry key="app/src/main/res/layout/image_post_design.xml" value="0.27717391304347827" />
         <entry key="app/src/main/res/layout/launch_page.xml" value="0.32608695652173914" />
+        <entry key="app/src/main/res/layout/text_post_design.xml" value="0.29030797101449274" />
       </map>
     </option>
   </component>
